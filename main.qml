@@ -1,5 +1,5 @@
 import QtQuick 2.0
-import "https://github.com/vuhailongkl97/Qml" as Remote
+import "https://raw.githubusercontent.com/vuhailongkl97/Qml/master/" as Remote
 
 
 Rectangle {
