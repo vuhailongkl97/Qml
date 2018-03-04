@@ -1,6 +1,6 @@
 import QtQuick 2.6
 import QtQuick.Window 2.2
-import "http://localhost:8080" as Remote
+import "https://github.com/vuhailongkl97/Qml" as Remote
 
 Window {
     visible: true
