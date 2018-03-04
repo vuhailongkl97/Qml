@@ -7,8 +7,10 @@ Window {
     width: 640
     height: 480
     title: qsTr("Hello World")
-    Remote.BButton{
-        text : 'button'
+    Text{
+    anchor.fill : parent
+    text : 'longkl'
+    font.pixelSize : 30
     }
 
 }
